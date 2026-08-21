@@ -119,6 +119,3 @@ The gap shows room for operational learning: strong performers may reveal practi
 
 **Potential Business Impact**  
 Pairing this screen with delivery SLA, cancellation, defect/return, and category mix data can turn a descriptive league table into a fair intervention programme.
-
-**Evidence**  
-The original notebook listed these seller extremes after applying a minimum count of 50. It did not control for confounders, so the finding is a triage signal rather than a performance verdict.
